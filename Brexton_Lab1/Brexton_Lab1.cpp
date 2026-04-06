@@ -1,4 +1,5 @@
-//Edited directly on GitHub
+// Reviewed and updated by Sam
+// Edited directly on GitHub
 // Brexton_Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
