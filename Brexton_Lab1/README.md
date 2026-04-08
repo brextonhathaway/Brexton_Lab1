@@ -11,3 +11,6 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Brexton Hathaway
 - Samuel Holmes
+
+## Changes Made by Brexton:
+Added a feature greeting.

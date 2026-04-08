@@ -12,4 +12,5 @@ int main()
     cout << "Git makes collaboration easy!" << endl;
     cout << "Changes made by Samuel!" << endl;
     cout << "Lab 1 completed on April 6th, 2026!" << endl;
+    cout << "Feature by Brexton : Branching is awesome! " << endl;
 }
